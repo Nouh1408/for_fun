@@ -5,6 +5,9 @@ body{
 }
 p {
     text-align: center;
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: bold;
+        
 }
 header{
     background-color: black;
@@ -14,12 +17,17 @@ header{
 }
 header h1{
     color: white;
-    font-family:cursive;
+    font-family:"Protest Revolution", sans-serif;;
+}
+ol{
+    font-family: cursive;
 }
 header img{
     border-radius: 300px;
     width: 400px;
-    border-radius: 3000px solid white;
+    border:20px solid darkgrey;
+    
+    
 }
 main {
     width: 1200px;
