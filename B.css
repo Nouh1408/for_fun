@@ -1,6 +1,10 @@
 body{
     margin: 0;
     font-family: 'Arial', 'Helvetica', sans-serif;
+    background-color: grey;
+}
+p {
+    text-align: center;
 }
 header{
     background-color: black;
@@ -13,9 +17,9 @@ header h1{
     font-family:cursive;
 }
 header img{
-    border-radius: 200px;
+    border-radius: 300px;
     width: 400px;
-    border-radius: 2000px solid white;
+    border-radius: 3000px solid white;
 }
 main {
     width: 1200px;
