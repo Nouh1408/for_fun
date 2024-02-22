@@ -5,9 +5,8 @@ body{
 }
 p {
     text-align: center;
-    font-family: "Protest Revolution", sans-serif;
+    font-family: "Protest Revolution", "sans-serif";
     font-weight: bold;
-        
 }
 header{
     background-color: black;
